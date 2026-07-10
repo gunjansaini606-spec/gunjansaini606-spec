@@ -1,16 +1,153 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gunjansaini606-spec/gunjansaini606-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AD46FF&height=220&section=header&text=Gunjan%20Saini&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/gunjansaini606-spec">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AD46FF&center=true&vCenter=true&width=600&lines=Building+AyuVedam+%E2%80%94+Panchakarma+Care+Platform;Prototyping+Urban+Heat+Command+Platform;Flying+Autonomous+Drones+with+PID+Control;Exploring+AI%2C+ML+%26+Web+Development" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AD46FF?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gunjansaini606-spec&color=AD46FF&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/gunjansaini606-spec?color=AD46FF&style=flat-square&label=Followers)
+
+</div>
+
+<br/>
+
+## 🧑‍💻 Who I Am
+
+```typescript
+const gunjanSaini = {
+  title: "Aspiring Software Engineer | CSE Student",
+  stack: {
+    languages: ["C", "C++", "Java", "Python", "SQL"],
+    concepts: ["Data Structures & Algorithms", "OOPs", "DBMS"],
+    tools: ["VS Code", "Git", "GitHub", "Canva"],
+    interests: ["Artificial Intelligence", "Machine Learning", "Web Development"],
+  },
+  launchedProjects: [
+    "AyuVedam – Panchakarma Patient Management Platform",
+    "Urban Heat Command Platform",
+    "Autonomous Quadcopter (Drone)",
+    "Food Ordering Application",
+  ],
+  certifications: [
+    "Engineer AI Agents with Agent Development Kit (ADK) — Google Cloud, 2026",
+    "Tools of Data Science — IBM (Coursera), 2026",
+    "AI and Machine Learning — Great Learning, 2024",
+    "Unmanned Aerial Systems, Sensors & Communication — MNIT Jaipur, 2025",
+    "Infosys Certification — Infosys, 2025",
+  ],
+  status: "Pre-final year @ Mody University, B.Tech CSE (2024 – 2028)",
+  openTo: "Fresher / Intern Software Engineering roles",
+};
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🩺 AyuVedam — Panchakarma Patient Management Platform
+
+Role-based (Admin, Doctor, Patient) platform digitizing Panchakarma therapy scheduling, appointment booking, and patient progress tracking — 🏆 3rd place, Smart India Hackathon 2025.
+
+<div align="center">
+
+[![AyuVedam](https://github-readme-stats.vercel.app/api/pin/?username=gunjansaini606-spec&repo=AyuVedam&theme=nord&border_color=AD46FF&title_color=AD46FF&text_color=c0caf5)](https://github.com/gunjansaini606-spec/AyuVedam)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| Backend | Node.js, Python |
+| Frontend | HTML, CSS, JavaScript |
+| Features | Video consultations, AI-assisted therapy guide, care alerts |
+
+🔗 [Code](https://github.com/gunjansaini606-spec/AyuVedam)
+
+<br/>
+
+### 🌡️ Urban Heat Command Platform
+
+Single-page prototype for urban heat monitoring and decision support across Indian cities (Jaipur, Delhi, Ahmedabad, Bengaluru), built for Bharatiya Antariksh Hackathon (BAH) 2026.
+
+<div align="center">
+
+[![Urban Heat Command Platform](https://github-readme-stats.vercel.app/api/pin/?username=gunjansaini606-spec&repo=Urban-Heat-Command-Platform&theme=nord&border_color=AD46FF&title_color=AD46FF&text_color=c0caf5)](https://github.com/gunjansaini606-spec/Urban-Heat-Command-Platform)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| Mapping/GIS | Leaflet.js |
+| Visualization | Chart.js |
+| Core | Python, HTML, CSS, JavaScript |
+
+🔗 [Code](https://github.com/gunjansaini606-spec/Urban-Heat-Command-Platform)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,mysql)
+
+**Frontend**
+
+![Skills](https://skillicons.dev/icons?i=html,css,js)
+
+**Backend / Infra**
+
+![Skills](https://skillicons.dev/icons?i=nodejs)
+
+**AI / Computer Vision / DB**
+
+![Skills](https://skillicons.dev/icons?i=opencv,mysql)
+
+**Dev Tools**
+
+![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gunjansaini606-spec&show_icons=true&theme=nord&border_color=AD46FF&title_color=AD46FF&icon_color=AD46FF&text_color=c0caf5&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansaini606-spec&layout=compact&theme=nord&border_color=AD46FF&title_color=AD46FF&text_color=c0caf5&hide_border=false" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=gunjansaini606-spec&theme=nord&border=AD46FF&ring=AD46FF&fire=AD46FF&currStreakLabel=AD46FF" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gunjansaini606-spec&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gunjansaini606-spec&theme=nord&color=AD46FF&line=AD46FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AD46FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunjan-saini2105)
+[![Email](https://img.shields.io/badge/Email-AD46FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunjansaini1309@gmail.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AD46FF&height=120&section=footer" width="100%"/>
