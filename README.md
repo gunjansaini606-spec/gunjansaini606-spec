@@ -21,7 +21,6 @@
 
 ## 🧑‍💻 Who I Am
 
-```typescript
 const gunjanSaini = {
   title: "Aspiring Software Engineer | CSE Student",
   stack: {
@@ -46,7 +45,6 @@ const gunjanSaini = {
   status: "Pre-final year @ Mody University, B.Tech CSE (2024 – 2028)",
   openTo: "Fresher / Intern Software Engineering roles",
 };
-```
 
 <br/>
 
