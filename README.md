@@ -3,12 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AD46FF&height=220&section=header&text=Gunjan%20Saini&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/gunjansaini606-spec">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AD46FF&center=true&vCenter=true&width=600&lines=Building+AyuVedam+%E2%80%94+Panchakarma+Care+Platform;Prototyping+Urban+Heat+Command+Platform;Flying+Autonomous+Drones+with+PID+Control;Exploring+AI%2C+ML+%26+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AD46FF&center=true&vCenter=true&width=600&lines=Building+AyuVedam+%E2%80%94+Panchakarma+Care+Platform;Prototyping+Urban+Heat+Command+Platform;Flying+Autonomous+Drones+with+PID+Control;Exploring+AI+%26+ML" alt="Typing SVG" />
 </a>
-
-<br/>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AD46FF?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
@@ -28,7 +24,7 @@ const gunjanSaini = {
     languages: ["C", "C++", "Java", "Python", "SQL"],
     concepts: ["Data Structures & Algorithms", "OOPs", "DBMS"],
     tools: ["VS Code", "Git", "GitHub", "Canva"],
-    interests: ["Artificial Intelligence", "Machine Learning", "Web Development"],
+    interests: ["Artificial Intelligence", "Machine Learning"],
   },
   launchedProjects: [
     "AyuVedam – Panchakarma Patient Management Platform",
@@ -47,6 +43,7 @@ const gunjanSaini = {
   openTo: "Fresher / Intern Software Engineering roles",
 };
 ```
+
 <br/>
 
 ## 🚀 Featured Projects
