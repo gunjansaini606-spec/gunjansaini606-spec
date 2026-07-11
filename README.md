@@ -125,8 +125,6 @@ Single-page prototype for urban heat monitoring and decision support across Indi
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gunjansaini606-spec&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunjansaini606-spec&theme=nord&color=AD46FF&line=AD46FF&point=ffffff&area=true&hide_border=true" width="100%"/>
