@@ -27,7 +27,7 @@ const gunjanSaini = {
     interests: ["Artificial Intelligence", "Machine Learning"],
   },
   launchedProjects: [
-    "AyuVedam – Panchakarma Patient Management Platform",
+    "AYUSUTRA – Panchakarma Patient Management Platform",
     "Urban Heat Command Platform",
     "Autonomous Quadcopter (Drone)",
     "Food Ordering Application",
@@ -48,13 +48,13 @@ const gunjanSaini = {
 
 ## 🚀 Featured Projects
 
-### 🩺 AyuVedam — Panchakarma Patient Management Platform
+### 🩺 AYUSUTRA — Panchakarma Patient Management Platform
 
 Role-based (Admin, Doctor, Patient) platform digitizing Panchakarma therapy scheduling, appointment booking, and patient progress tracking — 🏆 3rd place, Smart India Hackathon 2025.
 
 <div align="center">
 
-[![AyuVedam](https://github-readme-stats.vercel.app/api/pin/?username=gunjansaini606-spec&repo=AyuVedam&theme=nord&border_color=AD46FF&title_color=AD46FF&text_color=c0caf5)](https://github.com/gunjansaini606-spec/AyuVedam)
+[![AYSUTRA](https://github-readme-stats.vercel.app/api/pin/?username=gunjansaini606-spec&repo=AyuVedam&theme=nord&border_color=AD46FF&title_color=AD46FF&text_color=c0caf5)](https://github.com/gunjansaini606-spec/AyuVedam)
 
 </div>
 
