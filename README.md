@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AD46FF&height=220&section=header&text=Gunjan%20Saini&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/gunjansaini606-spec">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AD46FF&center=true&vCenter=true&width=600&lines=Building+AyuVedam+%E2%80%94+Panchakarma+Care+Platform;Prototyping+Urban+Heat+Command+Platform;Flying+Autonomous+Drones+with+PID+Control;Exploring+AI+%26+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AD46FF&center=true&vCenter=true&width=600&lines=Building+AYUSUTRA+%E2%80%94+Panchakarma+Care+Platform;Prototyping+Urban+Heat+Command+Platform;Flying+Autonomous+Drones+with+PID+Control;Exploring+AI+%26+ML" alt="Typing SVG" />
 </a>
 
 <br/>
